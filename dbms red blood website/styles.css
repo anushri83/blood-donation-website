@@ -1,0 +1,135 @@
+.container{
+    display: flex;
+    background-color: aliceblue;
+}
+.left{
+    display: flex;
+}
+.right{
+    padding-left: 1000px;
+    display: flex;
+}
+.right ul a{
+    padding: 5px;
+}
+.name{
+    padding-left: 10px;
+    color: darkslategray;
+}
+.bd{
+    padding-bottom: 50px;
+}
+.container2{
+    background-color: lavenderblush;
+    padding-right: 50px;
+    padding-top: 80px;
+}
+.body{
+    background-color: ghostwhite;
+}
+.img{
+    float: right;
+    padding-top: 5px;
+    padding-right: 40px;
+    padding-left: 30x;
+    border: 5px solid teal;   
+}
+.paragraph{
+    padding-left: 100px;
+    padding-top:30px;
+    font-size:30px;
+    font-style: italic;
+}
+.re{
+    padding-top: 10px;
+    color: firebrick;
+}
+.are{
+    font-weight: bold ;
+    color: firebrick;
+}
+.btn{
+    font-size: large;
+}
+.chart{
+    padding-top: 225px;
+    text-align: center;
+    background-color:lavenderblush;
+}
+.par2{
+    font-style: italic;
+    padding-top: 20px;
+    font-size:25px;
+    color: darkslateblue;
+}
+.par{
+    padding-top: 50px;
+}
+.map1{
+    padding-left: 200px;
+    padding-top: 60px;
+}
+.footer{
+    display: flex;
+    padding-top: 100px;
+    padding-left: 80px;
+    gap: 100px;
+}
+.footer-left{
+    font-family:'Courier New', Courier, monospace;
+}
+.footer-leftt{
+    padding-top: 80px;
+    font-family:'Courier New', Courier, monospace;
+}
+.footer-right{
+    padding-left: 20px;
+    font-family:'Courier New', Courier, monospace;
+}
+.footer-rightt{
+    padding-left: 10px;
+    padding-top: 80px;
+    font-family:'Courier New', Courier, monospace;
+}
+.footer-righttt{
+    padding-left: 10px;
+    padding-top: 80px;
+    font-family:'Courier New', Courier, monospace;
+}
+.image{
+    float: right;
+    padding-top: 40px;
+    padding-right: 200px;
+}
+.doctor1{
+    padding-top: 100px;
+    padding-left: 50px;
+}
+.doctor1-1{
+    padding-left: 50px;
+    padding-bottom: 250px;
+    color: darkslategray;
+}
+.doc-ht{
+    background-color: snow;
+
+}
+.best{
+    display: flex;
+    justify-content: center;
+    color: firebrick;
+}
+.about h4{
+    background-color: snow;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size:large;
+}
+.contact-h4{
+    padding-top: 40px;
+     padding-left: 30px;
+      font-family: sans-serif;
+      font-weight: lighter;
+       font-size: large;
+}
+
